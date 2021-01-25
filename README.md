@@ -2,7 +2,9 @@
 Instructions for compiling xde-menu on Debian like distros.
 ### Install libraries:
 
-libgnome-menu-3-dev libwnck-dev libgtk2.0-dev libgdk-pixbuf-xlib-2.0-dev libx11-dev libxext-dev libice-dev libsm-dev
+autoconf autogen automake libtool
+
+libgnome-menu-3-dev libwnck-dev libgtk2.0-dev libgdk-pixbuf2.0-dev libx11-dev libxext-dev libice-dev libsm-dev
 
 ### Additional
 
